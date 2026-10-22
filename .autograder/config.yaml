@@ -1,0 +1,5 @@
+test_command: mvn -q test
+timeout_seconds: 120
+max_score: 100
+public_tests: tests/public
+hidden_tests: tests/hidden
