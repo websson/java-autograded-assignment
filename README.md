@@ -61,7 +61,7 @@ To use it in a course, copy the repository (keep your copy private, since it
 holds the solution and the marking tests) and import its URL into an Uppcoder
 course. Each student gets their own copy of the starter in a ready coding lab
 in the browser, and every submission is marked by the tests. Uppcoder runs on
-its own or inside Moodle, Canvas or Brightspace over LTI 1.3, and works as a
+its own or inside Moodle, Canvas, Blackboard or Brightspace over LTI 1.3, and works as a
 [GitHub Classroom alternative](https://portal.uppcoder.com/github-classroom-alternative?utm_source=github&utm_medium=repo&utm_campaign=example-assignment-java).
 
 The same workflow step by step, with pictures (in Python): [autograde assignments with tests and a rubric in Canvas or Moodle](https://portal.uppcoder.com/guides/autograde-python-canvas-moodle?utm_source=github&utm_medium=repo&utm_campaign=example-assignment-java).
