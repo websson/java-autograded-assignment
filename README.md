@@ -66,4 +66,6 @@ its own or inside Moodle, Canvas, Blackboard or Brightspace over LTI 1.3, and wo
 
 The same workflow step by step, with pictures (in Python): [autograde assignments with tests and a rubric in Canvas or Moodle](https://portal.uppcoder.com/guides/autograde-python-canvas-moodle?utm_source=github&utm_medium=repo&utm_campaign=example-assignment-java).
 
+To see a coding lab run inside Moodle without an account, from the teacher's and the student's side: [the Moodle demo](https://demo.uppcoder.com/demo/education-moodle?utm_source=github&utm_medium=repo&utm_campaign=example-assignment-java).
+
 MIT licensed: use it, change it, hand it out.
